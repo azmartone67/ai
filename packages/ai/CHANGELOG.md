@@ -1,5 +1,13 @@
 # ai
 
+## 7.0.168
+
+### Patch Changes
+
+- 8585d7e: fix(ai): call `toUIMessageStream` `onError` once per invalid tool call
+- Updated dependencies [5497ff7]
+  - @ai-sdk/gateway@4.0.141
+
 ## 7.0.167
 
 ### Patch Changes

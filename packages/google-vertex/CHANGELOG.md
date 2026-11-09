@@ -1,5 +1,13 @@
 # @ai-sdk/google-vertex
 
+## 5.0.136
+
+### Patch Changes
+
+- acdccac: Route off-origin MaaS image downloads through the validated download transport so the built-in authentication wrappers in both entry points preserve Node.js DNS validation and manual redirect handling. Explicit custom fetch implementations and the browser redirect fallback remain supported.
+- Updated dependencies [304dec5]
+  - @ai-sdk/google@4.0.116
+
 ## 5.0.135
 
 ### Patch Changes
