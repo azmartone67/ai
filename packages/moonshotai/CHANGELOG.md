@@ -1,5 +1,11 @@
 # @ai-sdk/moonshotai
 
+## 0.0.38
+
+### Patch Changes
+
+- 28011ca: Avoid repeatedly normalizing array item schemas when preparing Moonshot tool and response schemas. Normalize object items and rewritten tuple items once while preserving existing prefix item order.
+
 ## 0.0.37
 
 ### Patch Changes
