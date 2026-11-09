@@ -1,5 +1,11 @@
 # @ai-sdk/vue
 
+## 3.0.328
+
+### Patch Changes
+
+- ai@6.0.328
+
 ## 3.0.327
 
 ### Patch Changes
